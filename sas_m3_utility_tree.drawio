@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.14">
   <diagram name="Page-1" id="o3Bn1y6jxGDED7frqozC">
-    <mxGraphModel dx="1317" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,8 +19,11 @@
         <mxCell id="qGtngPjAGswrNh9nRBlN-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qGtngPjAGswrNh9nRBlN-1" target="qGtngPjAGswrNh9nRBlN-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="qGtngPjAGswrNh9nRBlN-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qGtngPjAGswrNh9nRBlN-1" target="qGtngPjAGswrNh9nRBlN-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qGtngPjAGswrNh9nRBlN-1" value="Utility" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="126" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qGtngPjAGswrNh9nRBlN-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qGtngPjAGswrNh9nRBlN-2" target="qGtngPjAGswrNh9nRBlN-12">
           <mxGeometry relative="1" as="geometry" />
@@ -29,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qGtngPjAGswrNh9nRBlN-2" value="Performance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="286" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qGtngPjAGswrNh9nRBlN-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qGtngPjAGswrNh9nRBlN-3" target="qGtngPjAGswrNh9nRBlN-22">
           <mxGeometry relative="1" as="geometry" />
@@ -38,25 +41,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qGtngPjAGswrNh9nRBlN-3" value="Modifiability" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="286" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qGtngPjAGswrNh9nRBlN-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qGtngPjAGswrNh9nRBlN-4" target="qGtngPjAGswrNh9nRBlN-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qGtngPjAGswrNh9nRBlN-4" value="Availability" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="286" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qGtngPjAGswrNh9nRBlN-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qGtngPjAGswrNh9nRBlN-5" target="qGtngPjAGswrNh9nRBlN-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qGtngPjAGswrNh9nRBlN-5" value="Usability" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="286" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qGtngPjAGswrNh9nRBlN-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qGtngPjAGswrNh9nRBlN-6" target="qGtngPjAGswrNh9nRBlN-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qGtngPjAGswrNh9nRBlN-6" value="Compliance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="286" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qGtngPjAGswrNh9nRBlN-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qGtngPjAGswrNh9nRBlN-12" target="qGtngPjAGswrNh9nRBlN-15">
           <mxGeometry relative="1" as="geometry" />
@@ -65,7 +68,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qGtngPjAGswrNh9nRBlN-12" value="Ensuring UI responsiveness" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="35" width="120" height="60" as="geometry" />
+          <mxGeometry x="441" y="35" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qGtngPjAGswrNh9nRBlN-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qGtngPjAGswrNh9nRBlN-13" target="qGtngPjAGswrNh9nRBlN-17">
           <mxGeometry relative="1" as="geometry" />
@@ -74,7 +77,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qGtngPjAGswrNh9nRBlN-13" value="Ensuring timely notifications" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="105" width="120" height="60" as="geometry" />
+          <mxGeometry x="441" y="105" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qGtngPjAGswrNh9nRBlN-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qGtngPjAGswrNh9nRBlN-14" target="qGtngPjAGswrNh9nRBlN-20">
           <mxGeometry relative="1" as="geometry" />
@@ -83,21 +86,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qGtngPjAGswrNh9nRBlN-14" value="Minimizing negative impact on business operations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="441" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qGtngPjAGswrNh9nRBlN-15" value="&lt;font&gt;(H,L)&amp;nbsp;&lt;span style=&quot;color: rgb(17, 17, 17); background-color: rgb(255, 255, 255);&quot;&gt;UI screen load takes less than 2 seconds under normal load conditions.&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="35" width="420" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qGtngPjAGswrNh9nRBlN-16" value="(H,M) - The system must generate reports within 5 seconds 95% of the time under normal load conditions." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qGtngPjAGswrNh9nRBlN-16" value="(H,M) - The system must generate reports within &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(237, 237, 237));&quot;&gt;5 seconds 95% of the time&lt;/font&gt; under normal load conditions." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="65" width="680" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qGtngPjAGswrNh9nRBlN-17" value="(H,M) - SMS notification about booking status change is sent within 10 seconds." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qGtngPjAGswrNh9nRBlN-17" value="(H,M) - SMS notification about booking status change is sent within &lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;10 seconds&lt;/font&gt;." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="105" width="650" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qGtngPjAGswrNh9nRBlN-19" value="(H,M) - Email notification about booking status change is sent within 60 seconds." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qGtngPjAGswrNh9nRBlN-19" value="(H,M) - Email notification about booking status change is sent within &lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;60 seconds&lt;/font&gt;." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="130" width="720" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qGtngPjAGswrNh9nRBlN-20" value="(H,H) - System availability must be 99.95%." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qGtngPjAGswrNh9nRBlN-20" value="(H,H) - System availability must be &lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;99.95%&lt;/font&gt;." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="210" width="570" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qGtngPjAGswrNh9nRBlN-21" value="(H,H) - The system must be deployed in an active-passive configuration across multiple availability zones." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -110,12 +113,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qGtngPjAGswrNh9nRBlN-22" value="Adapting to company growth" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="314.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="441" y="314.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qGtngPjAGswrNh9nRBlN-23" value="(M,H) - The system must support horizontal and vertical scaling to accommodate a 5x increase in data volume and user traffic without requiring major architectural changes." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qGtngPjAGswrNh9nRBlN-23" value="(M,H) - The system must support horizontal and vertical scaling to accommodate a &lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;5x&lt;/font&gt; increase in data volume and user traffic without requiring major architectural changes." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="314.5" width="2290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qGtngPjAGswrNh9nRBlN-24" value="(M,H) - The system must support storage and processing of datasets up to 10 TB with less than a 10% degradation in performance." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qGtngPjAGswrNh9nRBlN-24" value="(M,H) - The system must support storage and processing of datasets up to &lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;10 TB &lt;/font&gt;with less than a &lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;10%&lt;/font&gt; degradation in performance." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="343.5" width="760" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qGtngPjAGswrNh9nRBlN-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qGtngPjAGswrNh9nRBlN-25" target="qGtngPjAGswrNh9nRBlN-26">
@@ -128,7 +131,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qGtngPjAGswrNh9nRBlN-25" value="Adapt to changes in legal and company structure and processes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="384.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="441" y="384.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qGtngPjAGswrNh9nRBlN-26" value="(L,M) - New modules or services must be deployable independently" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="374.5" width="480" height="30" as="geometry" />
@@ -136,32 +139,41 @@
         <mxCell id="qGtngPjAGswrNh9nRBlN-27" value="(M,L) - The booking process must support changing and deletion of stages (flexible booking workflows)." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="400.5" width="650" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qGtngPjAGswrNh9nRBlN-28" value="(H,M) - Updated booking requirements from CTC are available within 10 minutes after change." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qGtngPjAGswrNh9nRBlN-28" value="(H,M) - Updated booking requirements from CTC are available within &lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;10 minutes &lt;/font&gt;after change." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="427.5" width="610" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qGtngPjAGswrNh9nRBlN-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qGtngPjAGswrNh9nRBlN-29" target="qGtngPjAGswrNh9nRBlN-30">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qGtngPjAGswrNh9nRBlN-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qGtngPjAGswrNh9nRBlN-29" target="qGtngPjAGswrNh9nRBlN-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qGtngPjAGswrNh9nRBlN-29" value="Consistent and logical user interface experience" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="490" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="qGtngPjAGswrNh9nRBlN-30" value="(M,L) - UI has a common look and feel for all users throughout the entire system." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="490" width="460" height="30" as="geometry" />
+          <mxGeometry x="441" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qGtngPjAGswrNh9nRBlN-31" value="(M,L) - UI is built on business processes that are clear, concise, and logical." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="520" width="440" height="30" as="geometry" />
+          <mxGeometry x="600" y="505" width="440" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qGtngPjAGswrNh9nRBlN-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qGtngPjAGswrNh9nRBlN-32" target="qGtngPjAGswrNh9nRBlN-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qGtngPjAGswrNh9nRBlN-32" value="Adherence to regulatory requirements" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="441" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qGtngPjAGswrNh9nRBlN-33" value="(H,H) - All collection, storage, processing, and transmission of users’ data must comply with the GDPR and CCPA." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="645" width="870" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qGtngPjAGswrNh9nRBlN-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qGtngPjAGswrNh9nRBlN-55" target="qGtngPjAGswrNh9nRBlN-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGtngPjAGswrNh9nRBlN-55" value="Cost Effitiency" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="286" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGtngPjAGswrNh9nRBlN-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qGtngPjAGswrNh9nRBlN-56" target="qGtngPjAGswrNh9nRBlN-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGtngPjAGswrNh9nRBlN-56" value="Infrastructure and operational cost control" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="441" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGtngPjAGswrNh9nRBlN-57" value="(H,H) - Maintenance and infrastructure cost must stay within &lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;$2000 &lt;/font&gt;per month" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="785" width="440" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
