@@ -79,10 +79,7 @@
         <mxCell id="qGtngPjAGswrNh9nRBlN-13" value="Ensuring timely notifications" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="441" y="105" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qGtngPjAGswrNh9nRBlN-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qGtngPjAGswrNh9nRBlN-14" target="qGtngPjAGswrNh9nRBlN-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qGtngPjAGswrNh9nRBlN-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qGtngPjAGswrNh9nRBlN-14" target="qGtngPjAGswrNh9nRBlN-21">
+        <mxCell id="qGtngPjAGswrNh9nRBlN-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qGtngPjAGswrNh9nRBlN-14" target="qGtngPjAGswrNh9nRBlN-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qGtngPjAGswrNh9nRBlN-14" value="Minimizing negative impact on business operations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -94,17 +91,14 @@
         <mxCell id="qGtngPjAGswrNh9nRBlN-16" value="(H,M) - The system must generate reports within &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(237, 237, 237));&quot;&gt;5 seconds 95% of the time&lt;/font&gt; under normal load conditions." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="65" width="680" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qGtngPjAGswrNh9nRBlN-17" value="(H,M) - SMS notification about booking status change is sent within &lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;10 seconds&lt;/font&gt;." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qGtngPjAGswrNh9nRBlN-17" value="(M,M) - SMS notification about booking status change is sent within &lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;10 seconds&lt;/font&gt;." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="105" width="650" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qGtngPjAGswrNh9nRBlN-19" value="(H,M) - Email notification about booking status change is sent within &lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;60 seconds&lt;/font&gt;." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qGtngPjAGswrNh9nRBlN-19" value="(M,M) - Email notification about booking status change is sent within &lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;60 seconds&lt;/font&gt;." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="130" width="720" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qGtngPjAGswrNh9nRBlN-20" value="(H,H) - System availability must be &lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;99.95%&lt;/font&gt;." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="210" width="570" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qGtngPjAGswrNh9nRBlN-21" value="(H,H) - The system must be deployed in an active-passive configuration across multiple availability zones." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="240" width="830" height="30" as="geometry" />
+          <mxGeometry x="600" y="225" width="570" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qGtngPjAGswrNh9nRBlN-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qGtngPjAGswrNh9nRBlN-22" target="qGtngPjAGswrNh9nRBlN-23">
           <mxGeometry relative="1" as="geometry" />
@@ -136,7 +130,7 @@
         <mxCell id="qGtngPjAGswrNh9nRBlN-26" value="(L,M) - New modules or services must be deployable independently" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="374.5" width="480" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qGtngPjAGswrNh9nRBlN-27" value="(M,L) - The booking process must support changing and deletion of stages (flexible booking workflows)." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qGtngPjAGswrNh9nRBlN-27" value="(H,L) - The booking process must support changing and deletion of stages" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="400.5" width="650" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qGtngPjAGswrNh9nRBlN-28" value="(H,M) - Updated booking requirements from CTC are available within &lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;10 minutes &lt;/font&gt;after change." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -148,7 +142,7 @@
         <mxCell id="qGtngPjAGswrNh9nRBlN-29" value="Consistent and logical user interface experience" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="441" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qGtngPjAGswrNh9nRBlN-31" value="(M,L) - UI is built on business processes that are clear, concise, and logical." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qGtngPjAGswrNh9nRBlN-31" value="(H,L) - UI is built on business processes that are clear, concise, and logical." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="505" width="440" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qGtngPjAGswrNh9nRBlN-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qGtngPjAGswrNh9nRBlN-32" target="qGtngPjAGswrNh9nRBlN-33">
